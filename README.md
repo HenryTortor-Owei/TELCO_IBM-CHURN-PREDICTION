@@ -45,6 +45,6 @@
 * Decision tree classifier
 * Voting classifier which had all the previous models.
 ## RESULTS ON TEST SET
-*Evaluating based on f1 score
-*Best Results Xgboost: 0.857
-*2nd best soft voting classifier: 0.847
+* Evaluating based on f1 score
+* Best Results Xgboost: 0.857
+* 2nd best soft voting classifier: 0.847
